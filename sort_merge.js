@@ -15,3 +15,4 @@ while(i < arr1.length || j < arr2.length){
     }
 }
 console.log(result);
+
