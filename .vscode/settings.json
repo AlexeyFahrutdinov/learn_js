@@ -1,0 +1,18 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "ra-click.ru",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "ra-click",
+            "database": "frendpk_ra_click",
+            "username": "frendpk_vss",
+            "password": "vss!!!26win2602errOK"
+        }
+    ]
+}
